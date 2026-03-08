@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "wandb": {
+      "command": "/Users/anon/.local/bin/uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/wandb/wandb-mcp-server",
+        "wandb_mcp_server"
+      ]
+    }
+  }
+}

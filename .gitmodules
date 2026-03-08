@@ -34,3 +34,6 @@
 [submodule "zeroclaw"]
 	path = zeroclaw
 	url = https://github.com/twilwa/zeroclaw
+[submodule "gskill"]
+	path = gskill
+	url = https://github.com/itsmostafa/gskill
