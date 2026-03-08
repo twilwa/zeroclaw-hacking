@@ -1,0 +1,36 @@
+[submodule "AgenC"]
+	path = AgenC
+	url = https://github.com/tetsuo-ai/AgenC.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = git@github.com:twilwa/bootstrap.git
+[submodule "ZeroClaw-Android"]
+	path = ZeroClaw-Android
+	url = https://github.com/Natfii/ZeroClaw-Android.git
+[submodule "awesome-openclaw-skills"]
+	path = awesome-openclaw-skills
+	url = https://github.com/VoltAgent/awesome-openclaw-skills
+[submodule "awesome-openclaw-usecases"]
+	path = awesome-openclaw-usecases
+	url = https://github.com/hesamsheikh/awesome-openclaw-usecases
+[submodule "babyagi3"]
+	path = babyagi3
+	url = https://github.com/yoheinakajima/babyagi3.git
+[submodule "clawhub"]
+	path = clawhub
+	url = https://github.com/openclaw/clawhub
+[submodule "moltworker"]
+	path = moltworker
+	url = https://github.com/cloudflare/moltworker.git
+[submodule "nanobot"]
+	path = nanobot
+	url = https://github.com/HKUDS/nanobot.git
+[submodule "openclaw"]
+	path = openclaw
+	url = https://github.com/openclaw/openclaw.git
+[submodule "sediment"]
+	path = sediment
+	url = https://github.com/rendro/sediment.git
+[submodule "zeroclaw"]
+	path = zeroclaw
+	url = https://github.com/twilwa/zeroclaw
